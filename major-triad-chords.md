@@ -1,4 +1,5 @@
-Major Triad Chords - Tabs
+> Major Triad Chords - Tabs
+
 ## C Major Notes - C E G 
 
 ```
